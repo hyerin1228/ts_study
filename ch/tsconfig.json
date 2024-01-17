@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                                  
+    "module": "commonjs",                                
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,       // 파일이름에서 대소문자 일관성을    
+    "strict": true,                                 // 엄격한 타입검사
+    "skipLibCheck": true,                           // 
+    "outDir": "dist",
+    "noUncheckedIndexedAccess": true,
+    // "lib": ["ES2022", "DOM"]
+  },
+  "include": ["src/**/*"]
+}
