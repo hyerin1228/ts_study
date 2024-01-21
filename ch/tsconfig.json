@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2016",                                  
+    "target": "ES6",                                  
     "module": "commonjs",                                
     "esModuleInterop": true,                             
     "forceConsistentCasingInFileNames": true,       // 파일이름에서 대소문자 일관성을    
