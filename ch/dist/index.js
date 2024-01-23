@@ -273,3 +273,8 @@ queue.enqueue("Apple");
 queue.enqueue("Banana");
 console.log(queue.dequeue()); // Apple
 console.log(`Queue size: ${queue.size()}`); // Queue size: 1
+const user = {
+    name: "Alice",
+    age: 30,
+    id: 1
+};
